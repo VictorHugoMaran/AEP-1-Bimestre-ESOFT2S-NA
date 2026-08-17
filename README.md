@@ -3,7 +3,7 @@
 
 Projeto acadêmico desenvolvido para a **Atividade Extensionista Prática (AEP)** — 2º semestre de 2026 — dos cursos de **Engenharia de Software** e **Análise e Desenvolvimento de Sistemas** da **Unicesumar**.
 
-Equipe fictícia responsável pela proposta: **IntegraPSE**.
+Equipe responsável pela proposta: **IntegraPSE**.
 
 ---
 
