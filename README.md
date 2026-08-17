@@ -26,7 +26,7 @@ Este projeto propõe o planejamento e o desenvolvimento, em **linguagem C**, de 
 | Daniel Muniz Gallina | 26008793-2 |
 
 **Curso:** Engenharia de Software 
-**Séries:** ESOFT2S-NA
+**Série:** ESOFT2S-NA
 **Instituição:** Unicesumar
 **Ano:** 2026/2
 
