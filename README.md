@@ -25,8 +25,8 @@ Este projeto propõe o planejamento e o desenvolvimento, em **linguagem C**, de 
 | Murilo Bovo Bonvechio | 26011546-2 |
 | Daniel Muniz Gallina | 26008793-2 |
 
-**Curso:** Engenharia de Software / Análise e Desenvolvimento de Sistemas
-**Séries:** ESOFT2S / ADSIS2S
+**Curso:** Engenharia de Software 
+**Séries:** ESOFT2S-NA
 **Instituição:** Unicesumar
 **Ano:** 2026/2
 
