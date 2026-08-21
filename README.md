@@ -13,7 +13,7 @@ O **Programa Saúde na Escola (PSE)**, instituído pelo Decreto nº 6.286/2007, 
 
 Este projeto propõe o planejamento e o desenvolvimento, em **linguagem C**, de uma **aplicação de terminal** que centralize o cadastro, a consulta, a atualização e o acompanhamento de ações coletivas do PSE — sem armazenar dados clínicos ou identificar individualmente os estudantes.
 
-**Questão norteadora:** Como uma aplicação desenvolvida em linguagem C pode auxiliar uma equipe escolar e de saúde a planejar, registrar e acompanhar ações coletivas do Programa Saúde na Escola, apresentando informações claras aos gestores e preservando a privacidade dos estudantes envolvidos?
+**Questão norteadora:** De que forma o desenvolvimento de um sistema em linguagem C pode contribuir para organizar o registro e o acompanhamento das ações coletivas realizadas pela equipe responsável pelo Programa Saúde na Escola, apresentando informações claras e preservando a proteção dos dados dos estudantes?
 
 ---
 
@@ -21,9 +21,9 @@ Este projeto propõe o planejamento e o desenvolvimento, em **linguagem C**, de 
 
 | Nome | RA |
 |---|---|
-| Victor Hugo Maran Kalomenconkovas | 26001189-2 |
-| Murilo Bovo Bonvechio | 26011546-2 |
 | Daniel Muniz Gallina | 26008793-2 |
+| Murilo Bovo Bonvechio | 26011546-2 |
+| Victor Hugo Maran Kalomenconkovas | 26001189-2 |
 
 **Curso:** Engenharia de Software 
 **Série:** ESOFT2S-NA
@@ -89,6 +89,7 @@ O sistema trabalha exclusivamente com **dados fictícios** e informações colet
 - BRASIL. Ministério da Saúde. O que é o Programa Saúde na Escola (PSE)? Brasília, DF, 2025.
 - BRASIL. Ministério da Saúde. Quais são as ações do PSE? Brasília, DF, 2025.
 - SOUSA, M. C. de; ESPERIDIÃO, M. A.; MEDINA, M. G. A intersetorialidade no Programa Saúde na Escola: avaliação do processo político-gerencial e das práticas de trabalho. *Ciência & Saúde Coletiva*, Rio de Janeiro, v. 22, n. 6, p. 1781-1790, 2017.
+- BRASIL. Lei nº 13.853, de 8 de julho de 2019. Altera a Lei nº 13.709, de 14 de agosto de 2018, para dispor sobre a proteção de dados pessoais e para criar a Autoridade Nacional de Proteção de Dados; e dá outras providências. *Diário Oficial da União*, Brasília, DF, 19 dez. 2019.
 
 ---
 
