@@ -11,7 +11,7 @@ Equipe responsável pela proposta: **IntegraPSE**.
 
 O **Programa Saúde na Escola (PSE)**, instituído pelo Decreto nº 6.286/2007, articula as áreas de Saúde e Educação para promover ações de prevenção e atenção à saúde nas escolas públicas. Na prática, equipes intersetoriais municipais enfrentam dificuldades para localizar ações programadas, verificar o que já foi realizado ou cancelado e consolidar a quantidade de participantes atendidos, pois essas informações costumam estar dispersas em anotações, formulários e planilhas separadas.
 
-Este projeto propõe o planejamento e o desenvolvimento, em **linguagem C**, de uma **aplicação de terminal** que centralize o cadastro, a consulta, a atualização e o acompanhamento de ações coletivas do PSE — sem armazenar dados clínicos ou identificar individualmente os estudantes.
+Este projeto propõe o planejamento e o desenvolvimento, em **linguagem C**, de uma **aplicação de terminal** que centralize o cadastro, a consulta, a atualização e o acompanhamento de ações coletivas do PSE, sem armazenar dados clínicos ou identificar individualmente os estudantes.
 
 **Questão norteadora:** De que forma o desenvolvimento de um sistema em linguagem C pode contribuir para organizar o registro e o acompanhamento das ações coletivas realizadas pela equipe responsável pelo Programa Saúde na Escola, apresentando informações claras e preservando a proteção dos dados dos estudantes?
 
