@@ -59,10 +59,10 @@ Fora do escopo: registro individualizado de estudantes, diagnósticos, triagens,
 ```
 .
 ├── docs/
-│   ├── AEP_1_Entrega_PSE_em_Acao.docx     # Documento escrito da 1ª entrega
-│   ├── fluxograma_geral.png               # Fluxograma do menu principal
-│   └── fluxograma_atualizar_situacao.png  # Fluxograma detalhado da operação
-├── src/                                   # Código-fonte em C (a ser adicionado na 2ª etapa)
+│   ├── AEP_1_Entrega_PSE_em_Acao.docx     
+│   ├── fluxograma_geral.png               
+│   └── fluxograma_cadastro_acao.png  
+├── src/                                   #a ser adicionado na 2ª etapa
 └── README.md
 ```
 
