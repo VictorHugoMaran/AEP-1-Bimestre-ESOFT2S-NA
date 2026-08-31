@@ -85,11 +85,12 @@ O sistema trabalha exclusivamente com **dados fictícios** e informações colet
 
 ## 📚 Referências
 
-- BRASIL. Decreto nº 6.286, de 5 de dezembro de 2007. Institui o Programa Saúde na Escola – PSE e dá outras providências. *Diário Oficial da União*, Brasília, DF, 6 dez. 2007.
-- BRASIL. Ministério da Saúde. O que é o Programa Saúde na Escola (PSE)? Brasília, DF, 2025.
-- BRASIL. Ministério da Saúde. Quais são as ações do PSE? Brasília, DF, 2025.
-- SOUSA, M. C. de; ESPERIDIÃO, M. A.; MEDINA, M. G. A intersetorialidade no Programa Saúde na Escola: avaliação do processo político-gerencial e das práticas de trabalho. *Ciência & Saúde Coletiva*, Rio de Janeiro, v. 22, n. 6, p. 1781-1790, 2017.
-- BRASIL. Lei nº 13.853, de 8 de julho de 2019. Altera a Lei nº 13.709, de 14 de agosto de 2018, para dispor sobre a proteção de dados pessoais e para criar a Autoridade Nacional de Proteção de Dados; e dá outras providências. *Diário Oficial da União*, Brasília, DF, 19 dez. 2019.
+- BRASIL. Decreto nº 6.286, de 5 de dezembro de 2007. Institui o Programa Saúde na Escola – PSE e dá outras providências. Diário Oficial da União , Brasília, DF, 6 dez. 2007.
+- BRASIL. Ministério da Saúde. O que é o Programa Saúde na Escola (PSE)? Brasília, DF, 3 jun. 2025.
+- BRASIL. Ministério da Saúde. Quais são as ações do PSE? Brasília, DF, 3 jun. 2025.
+- SOUSA, MC de; ESPERIDÃO, MA; MEDINA, MG A intersetorialidade no Programa Saúde na Escola: avaliação do processo político-gerencial e das práticas de trabalho. Ciência & Saúde Coletiva , Rio de Janeiro, v. 6, pág. 1781-1790, 2017.
+- BRASIL. Lei nº 13.853, de 8 de julho de 2019. Altera a Lei nº 13.709, de 14 de agosto de 2018, para dispor sobre a proteção de dados pessoais e para criar a Autoridade Nacional de Proteção de Dados; e dá outras providências. Diário Oficial da União , Brasília, DF, 9 jul. 2019.
+- PARANÁ. Secretaria de Estado da Saúde. Da vacinação às atividades físicas: programa Saúde na Escola tem 48 mil ações no ano. Curitiba, PR, 10 set. 2025.
 
 ---
 
