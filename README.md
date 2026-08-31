@@ -1,7 +1,7 @@
 # PSE em Ação
 ### Sistema de Planejamento e Acompanhamento de Ações de Saúde na Escola
 
-Projeto acadêmico desenvolvido para a **Atividade Extensionista Prática (AEP)** — 2º semestre de 2026 — dos cursos de **Engenharia de Software** e **Análise e Desenvolvimento de Sistemas** da **Unicesumar**.
+Projeto acadêmico desenvolvido para a **Atividade Extensionista Prática (AEP)**, referente ao 2º semestre de 2026, dos cursos de **Engenharia de Software** e **Análise e Desenvolvimento de Sistemas** da **Unicesumar**.
 
 Equipe responsável pela proposta: **IntegraPSE**.
 
