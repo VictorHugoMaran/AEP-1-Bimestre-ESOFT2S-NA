@@ -60,8 +60,8 @@ Fora do escopo: registro individualizado de estudantes, diagnósticos, triagens,
 .
 ├── docs/
 │   ├── AEP_1_Entrega_PSE_em_Acao.pdf     
-│   ├── fluxograma_geral.png               
-│   └── fluxograma_cadastro_acao.png  
+│   ├── fluxograma_cadastro_acao.png               
+│   └── fluxograma_geral.png  
 ├── src/                                   #a ser adicionado na 2ª etapa
 └── README.md
 ```
